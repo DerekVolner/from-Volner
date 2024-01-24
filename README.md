@@ -24,9 +24,10 @@ I like Happy Garden because the food is affordable and the amount you get in an 
 [MyMedia](MyMedia.md)
 
 -------------------------------
-##Tables 
+### Tables 
 
 The below table includes media I would generally recommend to most people, the first is a book, the second a docudrama, the third a movie, and the last is a TV Show.
+
 |Media|Reason for Recommendation|Creator(s)|
 |:---|:---|:---|
 |Crime and Punishment|In-Depth look at someone who is incredibly paranoid with top-notch story-telling and twists.|Fyodor Dostoevsky|
