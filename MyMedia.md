@@ -26,3 +26,17 @@ The below table includes media I would generally recommend to most people, the f
 >He who has a why to live for can bear almost any how.
 
 Friedrich Nietzche
+
+-----------------------------
+I picked the one below 8 because the 8 of dart had only one line of code and two lines involving function name and ending bracket so wasn't certain whether it counted or not.
+
+Description: Compares the contents of list A to the contents of list b and findes the difference between the two lists.
+
+``` 
+List difference(Iterable a, Iterable b) {
+  final s = b.toSet();
+  return a.where((x) => !s.contains(x)).toList();
+}
+```
+
+[Snippet#9](https://code.pieces.app/collections/dart)
