@@ -16,3 +16,13 @@ The below table includes media I would generally recommend to most people, the f
 |Touching the Void|Intense story about one of the most infamous cases in mountain climbing history following two quick-witted people.|Kevin Macdonlad and Joe Simpson|
 |Come and See|Covers the invasion of Belarus by the germans during World War 2 and covers the horrors of war not typically covered in the western movies.|Elem Klimnov|
 |True Detective Season 1|A detective show that takes the audience along for the guessing game of who done it, and explores two opposing philosophies|Cary Fukunaga and Nic Pizzolatto |
+
+-----------------------------
+### Favorite Quotes
+>It's not what happens to you, but how you react to it that matters
+
+*Epictetus*
+
+>He who has a why to live for can bear almost any how.
+
+Friedrich Nietzche
