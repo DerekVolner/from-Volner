@@ -20,3 +20,5 @@ I like Happy Garden because the food is affordable and the amount you get in an 
 * Simply Siam Thai Food
 
 ----------
+
+[MyMedia](MyMedia.md)
