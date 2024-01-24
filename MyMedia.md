@@ -3,4 +3,4 @@
 An interesting fact about my favorite book is that the author followed the path of the actual story in real life across the United States living in multiple places near
 the historical events relayed in the mostly historically accurate novel Blood Meridian. Another interesting fact is that the main villain of the story is based off an actual person but that person's identity is somewhat up for debate as to the actual person that Judge Holden is so the real person outside of the story is also steeped in ambiguity as is the character. Another fact about Blood Meridian is that the author uses very minimal punctuation making it harder to read but allowing for the story to open itself up to more interpretation. Another interesting thing about the book is that there isn't really a singular character in the main cast of characters in the Glanton gang that really have any outstanding qualities that are not overshadowed by their horrendous actions that are primarily based on reality. 
 
-[Self-Photo-for-part-6] (selfPhotoPart6.jpg)
+[Self-Photo-for-part-6](selfPhotoPart6.jpg) 
