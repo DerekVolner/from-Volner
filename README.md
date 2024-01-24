@@ -12,7 +12,11 @@ I like Happy Garden because the food is affordable and the amount you get in an 
 2. Triple Delight
 3. Curry Shrimp 
 
+# Places to visit nearby
 
-
+* Subway
+* Maryville Public Library
+* The Pub
+* Simply Siam Thai Food
 
 ----------
