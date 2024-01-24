@@ -15,4 +15,4 @@ The below table includes media I would generally recommend to most people, the f
 |Crime and Punishment|In-depth look at someone who is incredibly paranoid with top-notch story-telling and twists.|Fyodor Dostoevsky|
 |Touching the Void|Intense story about one of the most infamous cases in mountain climbing history following two quick-witted people.|Kevin Macdonlad and Joe Simpson|
 |Come and See|Covers the invasion of Belarus by the germans during World War 2 and covers the horrors of war not typically covered in the western movies.|Elem Klimnov|
-|True Detective Season 1|A detective show that takes the audience along for the guessing game of who done it explores two opposing philosophies|Cary Fukunaga and Nic Pizzolatto |
+|True Detective Season 1|A detective show that takes the audience along for the guessing game of who done it, and explores two opposing philosophies|Cary Fukunaga and Nic Pizzolatto |
